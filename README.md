@@ -1,1 +1,1 @@
-# Robotics-Math
+# Garbage-classification-using-Manipulator
