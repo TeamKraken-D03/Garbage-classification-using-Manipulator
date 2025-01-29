@@ -10,7 +10,7 @@ This project focuses on the classification of waste into biodegradable and non-b
 - **Key Components**:
   - Vision-based segmentation for waste identification.
   - Reasoning and classification using LLMs.
-  - Robotic manipulator for sorting waste.
+  - Robotic manipulator for sorting waste .
 
 ## Academic Context
 
