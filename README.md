@@ -1,8 +1,8 @@
 # Garbage Classification Using Manipulator
 
-**Authors**: Naren Sundar L, Renny Harlin, Vatturu Pardheev, Charuvarthan T
+**Authors**: Naren Sundar L, Renny Harlin D, Vatturu Pardheev, Charuvarthan T
 
-This project focuses on the classification of waste into biodegradable and non-biodegradable categories using a robot manipulator. It integrates a segmentation-vision model for waste identification and leverages large language models (LLMs) for reasoning and decision-making.
+This project focuses on the classification of waste based on composition using a robot manipulator. It integrates a segmentation-vision model for waste identification and leverages large language models (LLMs) for reasoning and decision-making.
 
 ## Project Details
 
