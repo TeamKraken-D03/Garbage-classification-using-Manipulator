@@ -1,0 +1,166 @@
+[
+    {
+        "Waste": {
+            "Type": "Plastic Waste",
+            "Material": "Polyethylene Terephthalate (PET)"
+        },
+        "Recyclability": {
+            "Status": "Recyclable",
+            "Reason": "PET is a widely recyclable plastic material, and it can be converted into various products such as packaging materials, textiles, and more."
+        },
+        "Potential Products": [
+            {
+                "Product": "Packaging Materials (bottles, containers, etc.)",
+                "Description": "Recycled PET can be used to manufacture new packaging materials, reducing the need for virgin plastic and decreasing waste."
+            },
+            {
+                "Product": "Textiles (clothing, upholstery, etc.)",
+                "Description": "PET fibers can be spun into yarns and used to produce clothing, upholstery, and other textile products."
+            },
+            {
+                "Product": "Carpeting and Rugs",
+                "Description": "Recycled PET can be used to manufacture carpeting and rugs, providing a sustainable alternative to traditional materials."
+            },
+            {
+                "Product": "Synthetic Fibers",
+                "Description": "PET can be converted into synthetic fibers used in the production of ropes, twines, and other industrial applications."
+            }
+        ]
+    },
+    {
+        "Waste": {
+            "Label": "Banana Peels",
+            "Composition": "Organic waste (mainly cellulose, lignin, and starch)"
+        },
+        "Recyclability": "Non-recyclable",
+        "Derivable Products": [
+            {
+                "Product": "Compost",
+                "Description": "Banana peels can be added to compost piles to create nutrient-rich soil for gardening and agriculture."
+            },
+            {
+                "Product": "Animal Feed",
+                "Description": "Banana peels can be used as a nutritious feed supplement for animals, such as chickens and pigs."
+            },
+            {
+                "Product": "Biofuel",
+                "Description": "Banana peels can be converted into bioethanol or biodiesel, providing a renewable energy source."
+            },
+            {
+                "Product": "Natural Dye",
+                "Description": "Banana peels can be used to create a natural dye for textiles and other materials."
+            }
+        ]
+    },
+    {
+        "Waste": {
+            "Label": "Metal Waste",
+            "Chemical Composition": "Aluminum"
+        },
+        "Recyclability": "Recyclable",
+        "Useful Products": [
+            {
+                "Product": "Aluminum Cans",
+                "Description": "Aluminum cans can be recycled and reused to produce new aluminum products, reducing the need for primary aluminum production."
+            },
+            {
+                "Product": "Aluminum Foil",
+                "Description": "Aluminum foil can be recycled and used to produce new aluminum products, such as cookware, packaging materials, and even new aluminum cans."
+            },
+            {
+                "Product": "Other Aluminum Products",
+                "Description": "Aluminum waste can also be recycled and used to produce other aluminum products, such as window frames, door handles, and even aircraft parts."
+            }
+        ]
+    },
+    {
+        "waste_info": {
+            "name": "Glass Waste",
+            "chemical_composition": "Silicon Dioxide"
+        },
+        "recyclability": "Recyclable",
+        "derived_products": [
+            {
+                "product_name": "Glass Bottles",
+                "description": "Can be reused for packaging and storage"
+            },
+            {
+                "product_name": "Glass Fibers",
+                "description": "Can be used in insulation, textiles, and construction materials"
+            },
+            {
+                "product_name": "Silica Sand",
+                "description": "Can be used in construction, water filtration, and cosmetics"
+            },
+            {
+                "product_name": "Cullet",
+                "description": "Can be used as a raw material for producing new glass products"
+            }
+        ]
+    },
+    {
+        "waste": {
+            "label": "Paper Waste",
+            "chemical_composition": "Cellulose Fibers"
+        },
+        "recyclability": "recyclable",
+        "products": [
+            {
+                "name": "Pulp",
+                "description": "Cellulose fibers can be converted into pulp, which can be used to produce paper products such as packaging materials, cardboard, and tissue paper."
+            },
+            {
+                "name": "Biomass",
+                "description": "Cellulose fibers can be converted into biomass, which can be used as a renewable energy source or as a feedstock for the production of biofuels."
+            },
+            {
+                "name": "Cellulose Nanofibers",
+                "description": "Cellulose fibers can be processed into nanofibers, which have applications in various industries such as textiles, pharmaceuticals, and biotechnology."
+            }
+        ]
+    },
+    {
+        "Waste": {
+            "Name": "Iron Oxide",
+            "Label": "Metal Waste"
+        },
+        "Recyclability": "Recyclable",
+        "Derivable Products": [
+            {
+                "Product": "Pigments",
+                "Description": "Iron oxide can be used as a pigment in paint, coatings, and plastics."
+            },
+            {
+                "Product": "Magnetic Materials",
+                "Description": "Iron oxide can be used to produce magnetic materials, such as ferrite magnets."
+            },
+            {
+                "Product": "Catalysts",
+                "Description": "Iron oxide can be used as a catalyst in various industrial processes, such as the production of polyethylene and polypropylene."
+            },
+            {
+                "Product": "Water Treatment",
+                "Description": "Iron oxide can be used to remove impurities and contaminants from water, such as heavy metals and other pollutants."
+            }
+        ]
+    },
+    {
+        "waste_material": "Polystyrene (Styrofoam)",
+        "waste_label": "Plastic Waste",
+        "recyclability": "Non-recyclable",
+        "useful_products": [
+            {
+                "product": "Park benches",
+                "description": "Polystyrene can be used as a filling material in park benches, providing insulation and reducing the weight of the bench."
+            },
+            {
+                "product": "Artificial reefs",
+                "description": "Polystyrene can be used to create artificial reefs, providing a habitat for marine life and helping to restore damaged ecosystems."
+            },
+            {
+                "product": "Compost",
+                "description": "Polystyrene can be broken down into smaller pieces and used as a compost material, helping to improve soil structure and fertility."
+            }
+        ]
+    }
+]

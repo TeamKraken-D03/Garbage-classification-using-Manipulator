@@ -1,0 +1,30 @@
+[
+    {
+        "composition": "Polyethylene Terephthalate (PET)",
+        "label": "Plastic Waste"
+    },
+    {
+        "composition": "Banana",
+        "label": "Banana Peels"
+    },
+    {
+        "composition": "Aluminum",
+        "label": "Metal Waste"
+    },
+    {
+        "composition": "Glass (Silicon Dioxide)",
+        "label": "Glass Waste"
+    },
+    {
+        "composition": "Paper (Cellulose Fibers)",
+        "label": "Paper Waste"
+    },
+    {
+        "composition": "Iron Oxide",
+        "label": "Metal Waste"
+    },
+    {
+        "composition": "Polystyrene (Styrofoam)",
+        "label": "Plastic Waste"
+    }
+]
